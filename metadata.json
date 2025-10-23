@@ -1,0 +1,5 @@
+
+{
+  "name": "Indian Stock Tracker & Alerter",
+  "description": "A web application to track Indian stock prices in real-time, and leverage the Gemini API to generate intelligent alerts for potential investment entry points."
+}
